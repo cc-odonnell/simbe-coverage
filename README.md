@@ -86,9 +86,3 @@ python pipeline.py
 - `output/scene_coverage.csv` - Scene-level coverage by store and date
 - `output/skip_attribution.csv` - Skip reason breakdown by responsibility category
 - `output/*.png` - Visualization charts (coverage trends, failure heatmaps, skip breakdowns)
-
-### Generate Visualizations Separately
-```bash
-python src/visualizations.py
-```
-
